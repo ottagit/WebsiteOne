@@ -1,0 +1,30 @@
+---
+:scope: 
+:url: https://googleads.g.doubleclick.net/pagead/id?exp=nomnom
+:body: ''
+:status: 302
+:method: get
+:headers:
+  P3P: policyref="https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa
+    ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+  Timing-Allow-Origin: "*"
+  Location: https://googleads.g.doubleclick.net/pagead/id?exp=nomnom&slf_rd=1
+  Access-Control-Allow-Credentials: 'true'
+  Access-Control-Allow-Origin: https://www.youtube.com
+  Date: Tue, 27 Feb 2018 09:24:28 GMT
+  Pragma: no-cache
+  Expires: Fri, 01 Jan 1990 00:00:00 GMT
+  Cache-Control: no-cache, no-store, must-revalidate
+  Content-Type: text/html; charset=UTF-8
+  X-Content-Type-Options: nosniff
+  Server: cafe
+  Content-Length: '0'
+  X-XSS-Protection: 1; mode=block
+  Set-Cookie: test_cookie=CheckForPermission; expires=Tue, 27-Feb-2018 09:39:28 GMT;
+    path=/; domain=.doubleclick.net
+  Alt-Svc: hq="googleads.g.doubleclick.net:443"; ma=2592000; quic=51303431; quic=51303339;
+    quic=51303338; quic=51303337; quic=51303335,quic="googleads.g.doubleclick.net:443";
+    ma=2592000; v="41,39,38,37,35",hq=":443"; ma=2592000; quic=51303431; quic=51303339;
+    quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
+  Connection: close
+:content: ''

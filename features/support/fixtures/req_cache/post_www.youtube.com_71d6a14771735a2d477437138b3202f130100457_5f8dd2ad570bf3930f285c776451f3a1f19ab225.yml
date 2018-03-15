@@ -1,0 +1,22 @@
+---
+:scope: 
+:url: https://www.youtube.com/ad_data_204
+:body: dt=1519723547172&flash=0&frm=2&u_tz=0&u_his=3&u_java=false&u_h=768&u_w=1366&u_ah=741&u_aw=1366&u_cd=24&u_nplug=1&u_nmime=1&ca_type=image&bid=ANyPxKqKGLiXMu8uXxq8Ydo34AkRpfjUQy355nm8CWGur0RCg3IvsWe80ZhAeogEB7HyWU_t11h2ntiObcvNG6Z4H2ZbWhepsQ&bsq=0&session_token=QUFFLUhqbDc4Rm5nTElLUFJ5Mm5jNFRIbDlXOWtObXpud3xBQ3Jtc0tsQUxjaTRHS1lRNVFYUktpejduaTNmVWFxVk9XY0ZSdTNmSW9nX2hwN0s2M2ZjTlFtX0VJbkNXX28xY1FhMTMtWU9Nc1g3aUdlZjBBTG5tRUdKbDhDVGJHa1lzU2RGZTRERnkzOV90dXlZQTNqYTgySUtpT2J2RzV6RWF4cFBHSDNzeHA2VHFydG55UWNkd1JFazg5Q3YwcHhxREE%3D
+:status: 204
+:method: post
+:headers:
+  Content-Length: '0'
+  Cache-Control: no-cache
+  Access-Control-Allow-Origin: https://www.youtube.com
+  X-Content-Type-Options: nosniff
+  Expires: Tue, 27 Apr 1971 19:44:06 EST
+  X-Frame-Options: SAMEORIGIN
+  Content-Type: text/html; charset=utf-8
+  Access-Control-Allow-Credentials: 'true'
+  Strict-Transport-Security: max-age=31536000
+  Date: Wed, 05 Jul 2017 13:32:01 GMT
+  Server: YouTubeFrontEnd
+  X-Xss-Protection: 1; mode=block
+  Alt-Svc: quic=":443"; ma=2592000; v="39,38,37,36,35"
+  Connection: close
+:content: ''
